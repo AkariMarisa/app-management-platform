@@ -1,0 +1,6 @@
+[submodule "app-management-platform-front-end"]
+	path = app-management-platform-front-end
+	url = ./app-management-platform-front-end/
+[submodule "app-management-platform-back-end"]
+	path = app-management-platform-back-end
+	url = ./app-management-platform-back-end/
